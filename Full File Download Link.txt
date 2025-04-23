@@ -1,0 +1,9 @@
+Zahdidul Islam
+and Team Silencer
+
+drive link: https://drive.google.com/file/d/1ASDCp08JyM6zCwvNVDkeF2yJgfRvLrs9/view?usp=sharing
+
+GitHub Link: https://github.com/PingRooted/Online_Hotel_Reservation
+
+Must Be Database name: db_hor
+otherwise you need to change the config php code for your own selected database name.
