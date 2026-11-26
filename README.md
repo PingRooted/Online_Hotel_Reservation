@@ -1,4 +1,3 @@
-- ** Md. Zahidul Islam** -
 # Hotel Room Online Booking Management System
 
 ## Overview
